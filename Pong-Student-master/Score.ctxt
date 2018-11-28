@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Score\ here.\r\n\ \r\n\ @author\ (austin)\ \r\n\ @version\ (11/28/2018)\r\n
+comment1.params=onLeft
+comment1.target=Score(boolean)
+comment1.text=\r\n\ Scoer\ runs\ the\ displayScore\ method,\ assings\ the\ isLeft\ to\ the\ onLeft\ paramitor\r\n\ \r\n\ @param\ boolean\ used\ to\ check\ what\ side\ the\ score\ is\ for\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ if\ the\ score\ has\ changed\ it\ runs\ the\ displayScore\ method\r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ displayScore()
+comment3.text=\r\n\ displayScore\ updates\ the\ score\ display\ on\ the\ left\ or\ right\ side\ depending\ \r\n\ on\ the\ isLeft\ boolean\r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ countScore()
+comment4.text=\r\n\ countScore\ adds\ one\ to\ the\ player\ score\ and\ changes\ the\ scoreChanged\ boolean\ to\ true\r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ getScore\ returns\ an\ int\ with\ the\ value\ of\ the\ current\ player\ score\r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ an\ int\ with\ the\ current\ player\ score\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Paddle\ here.\r\n\ \r\n\ @author\ (austin)\ \r\n\ @version\ (11/27/2018)\r\n
+comment1.params=isLeft
+comment1.target=Paddle(boolean)
+comment1.text=\r\n\ paddle\ sets\ the\ image\ of\ the\ paddle\ to\ a\ rectangle\ and\ depending\ on\ the\ \r\n\ is\ left\ paramitor\ sets\ the\ color\ to\ blue\ or\ orange\ and\ sets\ the\ up\ and\ down\r\n\ keys\ based\ on\ the\ same\ thing\r\n\ \r\n\ @param\ a\ boolean\ paramiter\ used\ to\ tell\ what\ side\ the\ paddle\ is\ on\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ runs\ the\ checkKeyPressed\ method\r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ checkKeyPressed()
+comment3.text=\r\n\ checkKeyPressed\ checks\ if\ keys\ are\ pressed\ and\ based\ on\ what\ keys\ are\ pressed\ moves\ the\ paddle\ up\ and\ down\ \r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=4

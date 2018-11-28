@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ (austin)\ \r\n\ @version\ (11/27/2018)\r\n
+comment1.params=
+comment1.target=Ball()
+comment1.text=\r\n\ ball\ sets\ the\ image\ of\ the\ ball\ to\ a\ white\ circle\ set\ to\ a\ random\ rotation\r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ every\ cycle\ of\ the\ program\ it\ checks\ if\ the\ game\ is\ running\ and\ if\ \r\n\ it\ is\ it\ moves\ the\ ball\ and\ runs\ the\ checkCollison\ method\r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ checkCollision\ checks\ if\ the\ ball\ has\ collided\ with\ somthing\ \r\n\ and\ if\ so\ it\ makse\ the\ ball\ bounce\ off\ it\ also\ checks\ if\ the\ ball\ has\ \r\n\ gone\ all\ the\ way\ the\ the\ left\ or\ right\ it\ adds\ a\ pont\ to\ the\ respective\ player\r\n\ \r\n\ @param\ Nothing\ there\ are\ no\ paramitors\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=v
+comment4.target=void\ setVelocity(int)
+comment4.text=\r\n\ setVelocity\ sets\ the\ velocity\ to\ the\ v\ paramiter\r\n\ \r\n\ @param\ an\ int\ used\ to\ set\ the\ velocity\ of\ the\ ball\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=5
